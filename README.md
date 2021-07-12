@@ -1,6 +1,9 @@
 <h1>Clone Project</h1>
 <p>git clone https://github.com/essamabuissa/LiwwaTask-Backend.git</p>
 
+<h2>Important Message</h2>
+<h4>You will see all the Views,Models,Schemas in app.py file , i had problem in structuring them and keep giving me (Circular import error) so i put them all in the app.py file , but you will find file for each one with a commented code inside to show you that i know how the structure goes but sadly it didnt work with me and i put them all in one file </h4>
+
 <h2>Activate Virtual Enviroment</h2>
 <p>pipenv shell</p>
 
@@ -15,6 +18,7 @@
     <li>Create new connection</li>
     <li>Add name for connection</li>
     <li>Add Path for connection , is the path to the repo/db.sqlite , example (/Users/essamabuissa/Desktop/Development/Python/hr-backend/db.sqlite)</li>
+    <li>I have uploaded a db.sqlite file with the repo so when you open it you will have data </li>
 </ol>
 
 <h2>Start Project</h2>
