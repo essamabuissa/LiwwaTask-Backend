@@ -19,3 +19,17 @@
 
 <h2>Start Project</h2>
 <p>flask run</p>
+
+<h2>Test Endpoints</h2>
+
+<h3>Create New User</h3>
+<p>Method : POST</p>
+<p>http://localhost:5000/users</p>
+
+<h3>Get All Users</h3>
+<p>Method : GET</p>
+<p>http://localhost:5000/users</p>
+
+<h3>Get Single Users</h3>
+<p>Method : GET</p>
+<p>http://localhost:5000/users/:userId </p>
