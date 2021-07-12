@@ -14,7 +14,7 @@
     <li>Open table plus</li>
     <li>Create new connection</li>
     <li>Add name for connection</li>
-    <li>Add Path for connection , is the path to the repo/db.sqlite , example :/Users/essamabuissa/Desktop/Development/Python/hr-backend/db.sqlite</li>
+    <li>Add Path for connection , is the path to the repo/db.sqlite , example (/Users/essamabuissa/Desktop/Development/Python/hr-backend/db.sqlite)</li>
 </ol>
 
 <h2>Start Project</h2>
